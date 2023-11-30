@@ -24,14 +24,14 @@
 
 ## 🖥️ Technologies used <a name="technologies"></a> 
   
-<a href="#"><img src="./images/vscode.png" width=100></a>
-<a href="#"><img src="./images/github.png" width=100></a>
-<a href="#"><img src="./images/html.png" width=100></a>
-<a href="#"><img src="./images/css.png" width=100></a>
-<a href="#"><img src="./images/word.png" width=100></a>
-<a href="#"><img src="./images/powerpoint.png" width=100></a>
-<a href="#"><img src="./images/msteams.png" width=100></a>
-<a href="#"><img src="./images/figma.png" width=100></a>
+<a href="#"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" width=100></a>
+<a href="#"><img src="https://pngimg.com/uploads/github/github_PNG58.png" width=100></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width=100></a>
+<a href="#"><img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" width=100></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" width=100></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" width=100></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" width=100></a>
+<a href="#"><img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" width=100></a>
 ## 🧑 Collaborators <a name="collaborators"></a>
 - [Stefan Ivanov](https://github.com/sbivanov22) - Scrum trainer 
 - [Alexander Ivanov](https://github.com/ASIvanov22) - Front-end Developer
