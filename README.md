@@ -31,7 +31,7 @@
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" width=100></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" width=100></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" width=100></a>
-<a href="#"><img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" width=100></a>
+<a href="#"><img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.pngs" width=100></a>
 ## 🧑 Collaborators <a name="collaborators"></a>
 - [Stefan Ivanov](https://github.com/sbivanov22) - Scrum trainer 
 - [Alexander Ivanov](https://github.com/ASIvanov22) - Front-end Developer
