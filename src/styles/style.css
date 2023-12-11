@@ -1,18 +1,20 @@
 *{
     font-family: Arial, sans-serif;
 }
-body{
+body
+{
     background-color: #f8d4c4;
     margin: 0;
 }
 
 /* header */
-header {
+header 
+{
     position: relative;
     margin-top: 0;
     margin-left: 0;
     width: 100%;
-    background: url(images/plant.png) no-repeat center center;
+    background: url(../images/plant.png) no-repeat center center;
     padding: 50px 40px;
     color: white;
     font-size: 35px;
@@ -20,7 +22,8 @@ header {
   }
   
   /* this creates the little diagonal on the bottom */
-  header::after {
+  header::after 
+  {
     content: '';
     position: absolute;
     width: 100%;
@@ -33,23 +36,27 @@ header {
 
 
   /* logo div */
-  .logo-container {
+  .logo-container 
+  {
     display: flex;
     align-items: center;
 }
 
-.logo {
+.logo 
+{
     height: 50px;
     width: auto;
     margin-right: 10px;
 }
 
-.logo-caption {
+.logo-caption 
+{
     color: white;
     font-size: 25px;
 }
 
-.Home-Content-Container {
+.Home-Content-Container 
+{
     display: flex;
     font-weight: bold;
     margin-left: 10%;
@@ -58,7 +65,8 @@ header {
     margin-bottom: 5%;
 }
 
-.HomeText {
+.HomeText 
+{
     margin-left: 2%;
     margin-top: 10%;
     font-size: 25px;
@@ -67,7 +75,14 @@ header {
     word-wrap: break-word;
 }
 
-.AboutUs-Content-Container {
+.line
+{
+    background-color: white;
+    width: 10rem;
+}
+
+.AboutUs-Content-Container 
+{
     display: flex;
 }
 
@@ -91,7 +106,8 @@ header {
     margin-top: 8%;
 }
 
-footer{
+footer
+{
     background-color: black;
     font-size: 30px;
     height: 100px;
@@ -100,10 +116,13 @@ footer{
     font-weight: bold;
     padding-top: 10px;
 }
-.OurMission-Content-Container {
+.OurMission-Content-Container 
+{
     display: flex;
 }
-.OurMissionText{
+.OurMissionText
+{
+
     font-size: 30px;
     font-weight: bold;
     margin-left: 10%;
