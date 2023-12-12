@@ -1,39 +1,50 @@
-<h1 align="center">Green Tech <h1>
+<h1 align="center">GreenTech</h1>
+<br>
+<p align="center">
+<img width="40%" src="./src/images/logoBlack.png"/>
+<br>
+ 
+## 📄 Documentation and Presentation
+<a href="https://www.microsoft.com/en-ww/microsoft-365/word"><img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png" alt="MS Word logo" width=20px /></a>[Documentation](docs/GreenTech-documentation.docx)
+<br>
+<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png" alt="MS PowerPoint logo" width=20px ></a>[Presentation](docs/GreenTech-presentation.pptx)
 
-<div align="center" ><img src="./images/logo.png" alt="logo with text GreenTech"> </div>
+## 🖥 Team	<a name = "team"></a>
+> 1. **SBIvanov22** - **Scrum trainer**	
+   - ***GitHub profile***: [***SBIvanov22***](https://github.com/sbivanov22)	
+> 2. **ZRLazarov22** - **Developer Front-end**	
+   - ***GitHub profile***: [***ZRLazarov22***](https://github.com/ZlatinLazarov)	
+ 
+> 3. **ASIvanov22** - **Developer Front-end**	
+   - ***GitHub profile***: [***ASIvanov22***](https://github.com/ASIvanov22)
+ 
+> 4. **MPMateev** - **Designer**	
+   - ***GitHub profile***: [***MPMateev***](https://github.com/MPMateev22)
+<br>
+ 
+## 🔨 Tools
+<p align="left"> 
+<a href="https://www.microsoft.com/en-ww/microsoft-365/word"><img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png" alt="MS Word logo" width=48px /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png" alt="MS PowerPoint logo" width=48px />
+<a href="https://www.microsoft.com/bg-bg/microsoft-teams/log-in"><img src="https://admin.kuleuven.be/icts/services/teams/images/Teamslogo/image" alt="Teams logo" width=54px></a>
+<a href="https://git-scm.com/"><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git logo" width=48px></a>
+<a href="https://github.com/"><img src="https://developer.sas.com/github-resources/_jcr_content/par/styledcontainer_480618029/par/image.img.png/1558449533927.png" alt="GitHub logo" width=48px></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/51/null/visual-studio-code-2019.png"/></a>
+<a href="https://www.figma.com/"><img src="https://img.icons8.com/fluency/48/null/figma.png"/></a>
+</p> 
+<br>
+ 
+## 💻 Languages
+ 
+   <p align="left"> 
+<img src="https://cloud2data.com/wp-content/uploads/2023/01/HTML-CSS-Review.png" width="120px">
+</p>
+ 
 
-<div align="center"> 
-
-
-</div>
-
-## 📋 Table of contents
-  - [Description](#description)
-  - [Documentation](#docs)
-  - [Technologies](#technologies)
-  - [Collaborators](#collaborators)
-  
-## 🔍 Description <a name="description"></a>
-<p align="center"></p>
-  
-## 📃 Documentation <a name="docs"></a>
-  
-## [Team documentation]()
-  
-## [Presentation]()
-
-## 🖥️ Technologies used <a name="technologies"></a> 
-  
-<a href="#"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" width=100></a>
-<a href="#"><img src="https://pngimg.com/uploads/github/github_PNG58.png" width=100></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width=100></a>
-<a href="#"><img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" width=100></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" width=100></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" width=100></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" width=100></a>
-<a href="#"><img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.pngs" width=100></a>
-## 🧑 Collaborators <a name="collaborators"></a>
-- [Stefan Ivanov](https://github.com/sbivanov22) - Scrum trainer 
-- [Alexander Ivanov](https://github.com/ASIvanov22) - Front-end Developer
-- [Zlatin Lazarov](https://github.com/ZlatinLazarov) - Front-end Developer
-- [Maxim Mateev](https://github.com/MPMateev22) - Designer
+ 
+## ⚙️ Installation	<a name = "installation"></a>
+````	
+1. cmd 
+2. git clone https://github.com/sbivanov22/GreenTech.git
+3. Open your C: or D: and find the folder named: GreenTech
+````
