@@ -48,7 +48,7 @@ header
     width: 1rem;
 }
 
-p
+#About
 {
     height: 3rem;
 }
@@ -170,6 +170,7 @@ p
     font-weight: bold;
     margin-left: 5%;
     margin-top: 8%;
+    font-size: 3rem;
 }
 
 footer
@@ -197,4 +198,30 @@ footer
     max-width: 1400px;
     word-wrap: break-word;
     margin-bottom: 5%;
+}
+
+#phone
+{
+    position: absolute;
+    top: 0;
+    margin-top: 232rem;
+    margin-left: 1rem;
+}
+
+#licence
+{
+    position: absolute;
+    top: 0;
+    margin-top: 232rem;
+    margin-left: 36rem;
+
+}
+
+#email
+{
+    
+    position: absolute;
+    top: 0;
+    margin-top: 232rem;
+    margin-left: 86rem;
 }

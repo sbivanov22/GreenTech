@@ -19,7 +19,7 @@ header
     background: url(../images/Background_1_-ai-brush-removebg-go0kkc3e.png) no-repeat center center;
     padding: 50px 40px;
     color: white;
-    font-size: 5rem;
+    font-size: 7rem;
     background-size: cover;
   }
 
@@ -48,25 +48,10 @@ header
     width: 1rem;
 }
 
-
-.Home-Content-Container 
+#Contact
 {
-    display: flex;
-    font-weight: bold;
-    margin-left: 10%;
-    max-width: 1400px;
-    word-wrap: break-word;
-    margin-bottom: 5%;
-}
-
-.HomeText 
-{
-    margin-left: 2%;
-    margin-top: 10%;
-    font-size: 2rem;
-    font-weight: bold;
-    max-width: 1400px;
-    word-wrap: break-word;
+    height: 3rem;
+    font-size: 7rem;
 }
 
 .line
@@ -138,29 +123,134 @@ header
     cursor: pointer;
 }
 
-.AboutUs-Content-Container 
+.fullName
 {
-    display: flex;
-}
-
-.Pictures { /* CSS for the pictures in the "Home" and "About Us" sections */
-    height: 400px;
-    width: auto;
-    margin-left: 10%;
-    margin-top: 10%;
-    margin-bottom: 5%;
-}
-
-.AboutUsTextBubbles { /* For the team members */
-    height: 400px;
-    width: 1000px;
     background-color: #8ec151;
-    border-radius: 100px;
-    text-align: center;
-    padding-top: 50px;
-    font-weight: bold;
-    margin-left: 5%;
-    margin-top: 8%;
+    border: none;
+    width: 50rem;
+    margin-left: 10rem;
+    height: 3rem;
+}
+
+.email
+{
+    background-color: #8ec151;
+    border: none;
+    width: 50rem;
+    margin-left: 10rem;
+    height: 3rem;
+    margin-top: 3rem;
+}
+
+.message
+{
+    background-color: #8ec151;
+    border: none;
+    width: 50rem;
+    margin-left: 10rem;
+    height: 20rem;
+    margin-top: 3rem;
+}
+
+.submit
+{
+    position: absolute;
+    top: 0;
+    margin-top: 86rem;
+    font-size: 1.8rem;
+    background-color: #8ec151;
+    border: none;
+    border-radius: 5rem;
+    height: 4rem;
+    width: 9rem;
+    margin-left: 80rem;
+}
+
+#fullNamelabel
+{
+    position: absolute;
+    top: 0;
+    margin-top: 56rem;
+    margin-left: 10rem;
+}
+
+#emaillabel
+{
+    position: absolute;
+    top: 0;
+    margin-top: 62rem;
+    margin-left: 10rem;
+}
+
+#messagelabel
+{
+    position: absolute;
+    top: 0;
+    margin-top: 68rem;
+    margin-left: 10rem;
+}
+
+#fullNamelabel
+{
+    position: absolute;
+    top: 0;
+    margin-top: 56rem;
+    margin-left: 10rem;
+}
+
+.contactUsText
+{
+    position: absolute;
+    top: 0;
+    margin-top: 57rem;
+    margin-left: 70rem;
+    font-size: 3rem;
+    width: 30rem;
+}
+
+.smallhouse
+{
+    position: absolute;
+    height: 8rem;
+    top: 0;
+    margin-top: 65rem;
+    margin-left: 68rem;
+}
+
+.smallphone
+{
+    position: absolute;
+    height: 6rem;
+    top: 0;
+    margin-top: 78rem;
+    margin-left: 70rem;
+}
+
+.MR
+{
+    position: absolute;
+    top: 0;
+    margin-top: 66rem;
+    margin-left: 80rem;
+    font-size: 3rem;
+}
+
+.BS
+{
+    position: absolute;
+    top: 0;
+    margin-top: 70rem;
+    margin-left: 86rem;
+    font-size: 3rem;
+}
+
+.TEL
+{
+    position: absolute;
+    top: 0;
+    margin-top: 80rem;
+    margin-left: 80rem;
+    font-size: 2rem;
 }
 
 footer
@@ -172,20 +262,33 @@ footer
     text-align: center;
     font-weight: bold;
     padding-top: 10px;
+    margin-top: 5rem;
+
 }
 
-.OurMission-Content-Container 
+
+#phone
 {
-    display: flex;
+    position: absolute;
+    top: 0;
+    margin-top: 97rem;
+    margin-left: 1rem;
 }
 
-.OurMissionText
+#licence
 {
+    position: absolute;
+    top: 0;
+    margin-top: 97rem;
+    margin-left: 36rem;
 
-    font-size: 30px;
-    font-weight: bold;
-    margin-left: 10%;
-    max-width: 1400px;
-    word-wrap: break-word;
-    margin-bottom: 5%;
+}
+
+#email
+{
+    
+    position: absolute;
+    top: 0;
+    margin-top: 97rem;
+    margin-left: 86rem;
 }

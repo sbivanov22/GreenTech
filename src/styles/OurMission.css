@@ -181,3 +181,30 @@ footer
     word-wrap: break-word;
     margin-bottom: 5%;
 }
+
+
+#phone
+{
+    position: absolute;
+    top: 0;
+    margin-top: 118rem;
+    margin-left: 1rem;
+}
+
+#licence
+{
+    position: absolute;
+    top: 0;
+    margin-top: 118rem;
+    margin-left: 36rem;
+
+}
+
+#email
+{
+    
+    position: absolute;
+    top: 0;
+    margin-top: 118rem;
+    margin-left: 86rem;
+}
